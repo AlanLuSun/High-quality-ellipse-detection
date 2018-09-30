@@ -43,8 +43,8 @@ disp(['The total number of detected ellipses：',num2str(size(ellipses,1))]);
 %plot(candidates_xy(:,1),candidates_xy(:,2),'.');%draw candidates' centers.
 
 %% write the result image
-%set(gcf,'position',[0 0 size(I,2) size(I,1)])%设置figure大
-%saveas(gcf, 'D:\Graduate Design\Ellipse Detection\MyEllipse - github\pics\666_all.jpg', 'jpg');%保存当前figure的图片
+%set(gcf,'position',[0 0 size(I,2) size(I,1)]);
+%saveas(gcf, 'D:\Graduate Design\Ellipse Detection\MyEllipse - github\pics\666_all.jpg', 'jpg');
 end
 
 
