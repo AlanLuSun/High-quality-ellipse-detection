@@ -19,11 +19,11 @@ filename = 'D:\Graduate Design\Ellipse Detection\MyEllipse - github\pics\666.jpg
 % parameters
 Tac = 165;
 Tr = 0.6;
-specified_polarity = -1;
+specified_polarity = 0;
 
 %%
 % read image 
-disp('¶ÁÍ¼Ïñ------------------------------------------------');
+disp('------read image------');
 I = imread(filename);
 
 
