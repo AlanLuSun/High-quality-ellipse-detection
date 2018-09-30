@@ -25,7 +25,7 @@
 ## 4. Examples
 *Some high-quality ellipse detection examples run with default parameters and on the same computer with Intel Core i7-7500U 2.7GHz CPU and 8 GB memory*
 
-### 4.1 Detecting all ellipses in image
+### 4.1 Detecting all ellipses in the image
 
 ---
 - The number of detected ellipses: 4; Running time: 0.090s; Resolution: 651 x 436
