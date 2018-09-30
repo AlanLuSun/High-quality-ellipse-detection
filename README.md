@@ -28,28 +28,32 @@
 ### Detecting all ellipses in image
 
 ---
-![image](./pics/43_result.jpg) 
-The number of detected ellipses: 4; Running time: 0.090s; Resolution: 651 x 436
+- The number of detected ellipses: 4; Running time: 0.090s; Resolution: 651 x 436
+  <img src="./pics/43_result.jpg" width="80%" height="80%">  
+  
+---
+- The number of detected ellipses: 25; Running time: 0.460s; Resolution: 720 x 435
+<img src="./pics/27_result.jpg" width="80%" height="80%"> 
+
 
 ---
-![image](./pics/27_result.jpg) 
-The number of detected ellipses: 25; Running time: 0.460s; Resolution: 720 x 435
+- The number of detected ellipses: 3; Running time: 0.060s; Resolution: 512 x 456
+<img src="./pics/23_result.jpg" width="80%" height="80%"> 
+
 
 ---
-![image](./pics/23_result.jpg) 
-The number of detected ellipses: 3; Running time: 0.060s; Resolution: 512 x 456
+- The number of detected ellipses: 8; Running time: 0.110s; Resolution: 752 x 525
+<img src="./pics/666_result.jpg" width="80%" height="80%"> 
 
----
-![image](./pics/666_result.jpg) 
-The number of detected ellipses: 8; Running time: 0.110s; Resolution: 752 x 525
 
-### Detecting the ellipses with positive polarity
-![image](./pics/666_positive.jpg) 
-The number of detected ellipses: 4; Running time: 0.080s; Resolution: 752 x 525
+### Detecting the ellipses with positive polarity  
+- The number of detected ellipses: 4; Running time: 0.080s; Resolution: 752 x 525
+<img src="./pics/666_positive.jpg" width="80%" height="80%"> 
 
 ### Detecting the ellipses with negative polarity
-![image](./pics/666_negative.jpg) 
-The number of detected ellipses: 4; Running time: 0.086s; Resolution: 752 x 525
+- The number of detected ellipses: 4; Running time: 0.086s; Resolution: 752 x 525
+<img src="./pics/666_negative.jpg" width="80%" height="80%"> 
+
 
 ## Applications
 - Robot Vision
