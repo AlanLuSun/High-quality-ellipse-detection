@@ -1,8 +1,8 @@
 # High-quality Ellipse Detection
 ## Illustration
-- This is the souce code for the paper [High-quality Ellipse Detection Based on Arc-support Line Segments](https://alanlusun.github.io/publication/2018-09-24-High-quality-Ellipse-Detection/).
-- The main contribution of the proposed ellipse detector is to both accurately and efficiently detect ellipses in images, which is univerally considered as a tough and long-standing problem in ellipse detection field. The proposed ellipse detector owns the features of *high localization accuracy, efficiency, robustness*, and *stability*, which comprehensively yields high-quality ellipse detection performance in front of real-world images. 
-- There are only *two* extrinsic parameters, namely the elliptic angular coverage *Tac* and the ratio of support inliers *Tr*, which enables the proposed ellipse detector to be conveniently used and applied in real applications. In addition, the *specified_polarity* option can help users find the polarity-specific ellipses in image.  
+- This is the source code for the paper [High-quality Ellipse Detection Based on Arc-support Line Segments](https://alanlusun.github.io/publication/2018-09-24-High-quality-Ellipse-Detection/).
+- The main contribution of the proposed ellipse detector is to both accurately and efficiently detect ellipses in images, which is universally considered as a tough and long-standing problem in ellipse detection field. The proposed ellipse detector owns the features of *high localization accuracy, efficiency, robustness*, and *stability*, which comprehensively yields high-quality ellipse detection performance in front of real-world images. 
+- There are only *two* extrinsic parameters, namely the elliptic angular coverage *Tac* and the ratio of support inliers *Tr*, which enables the proposed ellipse detector to be conveniently used and applied in real applications. In addition, the *specified_polarity* option can help users find the polarity-specific ellipses in the image.  
 - The source code is free for academic use.
 
 ## Requirements
@@ -18,12 +18,12 @@
   mex generateEllipseCandidates.cpp -IF:\OpenCV\opencv2.4.9\build\include -IF:\OpenCV\opencv2.4.9\build\include\opencv -IF:\OpenCV\opencv2.4.9\build\include\opencv2 -LF:\OpenCV\opencv2.4.9\build\x64\vc11\lib -LF:\Matlab\settlein\extern\include -LF:\Matlab\settlein\extern\lib\win64\microsoft -lopencv_core249 -lopencv_highgui249 -lopencv_imgproc249 -llibmwlapack.lib  
   
   ---
-  Notably, the corresponding software paths of OpenCV and MATLAB should be replaced to your own.  
+  Notably, the corresponding software paths of OpenCV and MATLAB, namely the "F:\OpenCV\opencv2.4.9\" and "F:\Matlab\settlein\", should be replaced to your own.  
 - Secondly, run the demo file "LCS_ellipse.m".
 
 
 ## Examples
-*Some high-quality ellipse detection examples runned with default parameters and on the same computer with Intel Core i7-7500U 2.7GHz CPU and 8 GB memory*
+*Some high-quality ellipse detection examples run with default parameters and on the same computer with Intel Core i7-7500U 2.7GHz CPU and 8 GB memory*
 
 ### Detecting all ellipses in image
 
@@ -56,10 +56,10 @@
 
 
 ## Successful Application Cases
-- Robot Vision
 - Car Wheel Hub Recognition
 - PCB inspection
 - Object fingerprinting
+- Robot Vision
 
 
 
