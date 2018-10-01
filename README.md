@@ -7,7 +7,7 @@
 
 ## 2. Requirements
 - MATLAB
-- OpenCV 
+- OpenCV (Version 2.4.9)
 - 64-bit Windows Operating System
 
 
