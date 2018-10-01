@@ -57,8 +57,8 @@
 
 ## 5. Successful Application Cases
 - Car Wheel Hub Recognition
-- PCB inspection
-- Object fingerprinting
+- PCB Inspection
+- Object Fingerprinting
 - Robot Vision
 
 
