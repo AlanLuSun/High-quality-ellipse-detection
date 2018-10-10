@@ -64,9 +64,9 @@
 
 ## 6. Citation
 ```
-@article{Tao18attngan,
+@article{Lu2018Highquality,
   title     = {High-quality Ellipse Detection Based on Arc-support Line Segments},
-  author    = {Changsheng Lu, Siyu Xia, Ming Shao, Yun Fu},
+  author    = {Lu, Changsheng and Xia, Siyu and Shao, Ming and Fu, Yun},
   journal   = {arXiv preprint arXiv:1810.03243},
   Year = {2018}
 }
