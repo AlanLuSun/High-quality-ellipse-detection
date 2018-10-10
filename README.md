@@ -62,4 +62,16 @@
 - Robot Vision
 
 
+## 6. Citation
+```
+@article{Tao18attngan,
+  title     = {High-quality Ellipse Detection Based on Arc-support Line Segments},
+  author    = {Changsheng Lu, Siyu Xia, Ming Shao, Yun Fu},
+  journal   = {arXiv preprint arXiv:1810.03243},
+  Year = {2018}
+}
+```
+
+
+
 
