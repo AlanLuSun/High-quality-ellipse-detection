@@ -2,7 +2,7 @@
 ## 1. Illustration
 - This is the source code for the paper [High-quality Ellipse Detection Based on Arc-support Line Segments](https://arxiv.org/abs/1810.03243).
 - The main contribution of the proposed ellipse detector is to both accurately and efficiently detect ellipses in images, which is universally considered as a tough and long-standing problem in ellipse detection field. The proposed ellipse detector owns the features of *high localization accuracy, efficiency, robustness*, and *stability*, which comprehensively yields high-quality ellipse detection performance in front of real-world images. 
-- There are only *two* extrinsic parameters, namely the elliptic angular coverage *Tac* and the ratio of support inliers *Tr*, which enables the proposed ellipse detector to be conveniently used and applied in real applications. In addition, the *specified_polarity* option can help users find the polarity-specific ellipses in the image.  
+- There are only *two* extrinsic parameters, namely the elliptic angular coverage $T_{ac}$ and the ratio of support inliers $T_{r}$, which enables the proposed ellipse detector to be conveniently used and applied in real applications. In addition, the *specified_polarity* option can help users find the polarity-specific ellipses in the image. The default parameters are $T_{ac} = 165^o$, $T_{r} = 0.6$ and *specified_polarity* $= 0$ which are used for comparison experiments in our paper.  
 - The source code is free for academic use. Please cite our paper if you use the source code, thanks.
 
 ## 2. Requirements
@@ -54,8 +54,12 @@
 - The number of detected ellipses: 4; Running time: 0.086s; Resolution: 752 x 525
   <img src="./pics/666_negative.jpg" width="73%" height="73%"> 
 
+### 4.4 Detecting the ellipses sharing different polarity  
+- The number of detected ellipses: 4; Running time: 0.086s; Resolution: 752 x 525. ($T_{ac} = 165^{o}$, $T_r = 0.5$)  
+  <img src="./pics/different-polarity-detection_all.jpg" width="73%" height="73%"> 
 
-## 5. Successful Application Cases
+
+## 5. Successful Application Cases Up to Now
 - Car Wheel Hub Recognition
 - PCB Inspection
 - Object Fingerprinting
@@ -71,7 +75,3 @@
   Year = {2018}
 }
 ```
-
-
-
-
