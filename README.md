@@ -55,7 +55,7 @@
   <img src="./pics/666_negative.jpg" width="73%" height="73%"> 
 
 ### 4.4 Detecting the ellipses sharing different polarity  
-- The number of detected ellipses: 4; Running time: 0.086s; Resolution: 752 x 525. ($T_{ac} = 165^{o}$, $T_r = 0.5$)  
+- The number of detected ellipses: 5; Running time: 0.226s; Resolution: 1000 x 680. ($T_{ac} = 165^{o}$, $T_r = 0.5$)  
   <img src="./pics/different-polarity-detection_all.jpg" width="73%" height="73%"> 
 
 
