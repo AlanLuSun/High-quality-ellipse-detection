@@ -2,7 +2,7 @@
 ## 1. Illustration
 - This is the source code for the paper [High-quality Ellipse Detection Based on Arc-support Line Segments](https://arxiv.org/abs/1810.03243).
 - The main contribution of the proposed ellipse detector is to both accurately and efficiently detect ellipses in images, which is universally considered as a tough and long-standing problem in ellipse detection field. The proposed ellipse detector owns the features of *high localization accuracy, efficiency, robustness*, and *stability*, which comprehensively yields high-quality ellipse detection performance in front of real-world images. 
-- There are only *two* extrinsic parameters, namely the elliptic angular coverage $T_{ac}$ and the ratio of support inliers $T_{r}$, which enables the proposed ellipse detector to be conveniently used and applied in real applications. In addition, the *specified_polarity* option can help users find the polarity-specific ellipses in the image. The default parameters are $T_{ac} = 165^o$, $T_{r} = 0.6$ and *specified_polarity* $= 0$ which are used for comparison experiments in our paper.  
+- There are only *two* extrinsic parameters, namely the elliptic angular coverage $ T_{ac} $ and the ratio of support inliers $T_{r}$, which enables the proposed ellipse detector to be conveniently used and applied in real applications. In addition, the *specified_polarity* option can help users find the polarity-specific ellipses in the image. The default parameters are $T_{ac} = 165^o$, $T_{r} = 0.6$ and *specified_polarity* $= 0$ which are used for comparison experiments in our paper.  
 - The source code is free for academic use. Please cite our paper if you use the source code, thanks.
 
 ## 2. Requirements
