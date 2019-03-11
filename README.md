@@ -67,16 +67,5 @@
 - Robot Vision
 
 
-## 6. Citation
-```
-@article{Lu2018Highquality,
-  title     = {Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection},
-  author    = {Lu, Changsheng and Xia, Siyu and Shao, Ming and Fu, Yun},
-  journal   = {arXiv preprint arXiv:1810.03243v4},
-  Year = {2018}
-}
-```
-
-
 
 
