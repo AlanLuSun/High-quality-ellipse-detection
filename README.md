@@ -1,4 +1,3 @@
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 # High-quality Ellipse Detection
 ## 1. Illustration
 - This is the source code for the paper Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection.
