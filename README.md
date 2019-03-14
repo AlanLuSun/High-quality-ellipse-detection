@@ -1,4 +1,3 @@
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 # High-quality Ellipse Detection
 ## 1. Illustration
 - This is the source code for the paper Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection.
