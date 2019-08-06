@@ -71,7 +71,7 @@
 @article{lu2019high,
   title={Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection},
   author={Lu, Changsheng and Xia, Siyu and Shao, Ming and Fu, Yun},
-  journal={arXiv preprint arXiv:1810.03243v4},
+  journal={arXiv preprint arXiv:1810.03243},
   year={2019}
 }
 ```
