@@ -74,5 +74,8 @@
   journal={IEEE Transactions on Image Processing},
   year={2019}
 }
-```
+```  
+
+## 7. Our Previous Work  
+A [circle detection method](https://github.com/AlanLuSun/Circle-detection) which can detect circles from image efficiently, precisely and robustly.
 
