@@ -77,5 +77,5 @@
 ```  
 
 ## 7. Our Previous Work  
-A [circle detection method](https://github.com/AlanLuSun/Circle-detection) which can detect circles from image efficiently, precisely and robustly.
+We also proposed a [circle detection method](https://github.com/AlanLuSun/Circle-detection) in our previous work which could detect circles from image efficiently, precisely and robustly.
 
