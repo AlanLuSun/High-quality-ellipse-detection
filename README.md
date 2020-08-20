@@ -74,7 +74,7 @@
   journal={IEEE Transactions on Image Processing},
   volume={29},
   pages={768--781},
-  year={2019},
+  year={2020},
   publisher={IEEE}
 }
 ```  
