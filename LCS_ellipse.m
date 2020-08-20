@@ -11,6 +11,7 @@ function []  = LCS_ellipse()
 %-1 means detecting the ellipses with negative polarity; 
 %0 means detecting all ellipses from image
 
+
 close all;
 
 %image path

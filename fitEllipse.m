@@ -5,6 +5,7 @@ function [ellipse,info] = fitEllipse(X,Y)
 % The returned vector A contains the center, radii, and orientation
 % of the ellipse, stored as (Cx, Cy, Rx, Ry, theta_radians)
 
+
 %{
 % normalize data
 mx = mean(X);

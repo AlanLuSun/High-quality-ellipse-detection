@@ -18,6 +18,7 @@
 % Nanyang Technological University, Singapore
 % http://www.ntu.edu.sg/
 
+
 function [] = drawEllipses(ellipses_para,im)
 if ~isempty(im)
 figure;
