@@ -66,7 +66,11 @@
 - Robot Vision
 
 
-## 6. Citation
+## 6. Some Excellent Re-implementations
+- [C++ implementation](https://github.com/memory-overflow/standard-ellipse-detection) @ GitHub user `memory-overflow`
+
+
+## 7. Citation
 ```
 @article{lu2019arc,
   title={Arc-Support Line Segments Revisited: An Efficient High-Quality Ellipse Detection},
@@ -79,6 +83,6 @@
 }
 ```  
 
-## 7. Our Previous Work  
+## 8. Our Previous Work  
 We also proposed a [circle detection method](https://github.com/AlanLuSun/Circle-detection) in our previous work which could detect circles from image efficiently, precisely and robustly.
 
